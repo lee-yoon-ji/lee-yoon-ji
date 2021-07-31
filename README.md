@@ -12,8 +12,8 @@
 
 [![Projects Badge](http://img.shields.io/badge/-Projects-black?style=flat-square&logo=github&link=Projects/)](https://github.com/lamlyg)
  
-﹏﹏﹏﹏﹏﹏﹏
-<br/>
+﹏﹏﹏﹏﹏﹏﹏﹏
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Java-73A1FB?style=flat&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-A1C837?style=flat&logo=android&logoColor=white"/><br/>
