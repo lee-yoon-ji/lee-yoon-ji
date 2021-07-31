@@ -7,11 +7,11 @@
 <strong> 𝐋𝐄𝐄 𝐘𝐎𝐎𝐍 𝐉𝐈 </strong><br><br>
 👩🏻‍💻 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 <br>
 👩🏻‍🎓 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫 𝐨𝐟 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 <br>
-💻 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐈 𝐝𝐢𝐝 𝐰𝐡𝐞𝐧 𝐈 𝐰𝐚𝐬 𝐢𝐧 𝐜𝐨𝐥𝐥𝐞𝐠𝐞.
 <br/><br/>
 
-[![Projects Badge](http://img.shields.io/badge/-Projects-black?style=flat-square&logo=github&link=Projects/)](https://github.com/lamlyg)
- 
+[![Archive Badge](http://img.shields.io/badge/-Archive-black?style=flat-square&logo=github&link=Archive/)](https://github.com/lamlyg)
+[![Notion Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&link=Notion/)](https://www.notion.so/colossal-diplodocus-eb8/a1410ab0552941cdb3d23fd56d741feb)
+<br/>
 ﹏﹏﹏﹏﹏﹏﹏﹏
 <br/><br/>
 
