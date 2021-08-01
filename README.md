@@ -15,13 +15,18 @@
 ﹏﹏﹏﹏﹏﹏﹏﹏
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Java-73A1FB?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-A1C837?style=flat&logo=android&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/C++-00599D?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-73A1FB?style=flat&logo=java&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Selenium-00B400?style=flat&logo=Selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cucumber-03A617?style=flat&logo=cucumber&logoColor=white"/>
+<img src="https://img.shields.io/badge/Appium-purple?style=flat&logo=appium&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Android-A1C837?style=flat&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-06ABFF?style=flat&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-45D1FD?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-grey?style=flat&logo=ios&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-FF562D?style=flat&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/iOS-grey?style=flat&logo=ios&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Selenium-00B400?style=flat-square&logo=Selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Appium-purple?style=flat-square&logo=appium&logoColor=white"/><br/>
- <img src="https://img.shields.io/badge/-jira-navy?style=flat&logo=jira"/>
+<img src="https://img.shields.io/badge/React-4AD5FF?style=flat&logo=react&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-jira-navy?style=flat&logo=jira"/>
 <img src="https://img.shields.io/badge/-Git-orange?style=flat&logo=git"/>
 <img src="https://img.shields.io/badge/-github-black?style=flat&logo=github"/><br>
 
