@@ -12,11 +12,12 @@
 
 [![Archive Badge](http://img.shields.io/badge/-Archive-black?style=flat-square&logo=github&link=Archive/)](https://github.com/lamlyg)
 [![Notion Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&link=Notion/)](https://www.notion.so/colossal-diplodocus-eb8/a1410ab0552941cdb3d23fd56d741feb)
+[![PLAYLIST Badge](http://img.shields.io/badge/-PLAYLIST-black?style=flat-square&logo=spotify&link=Notion/)](https://open.spotify.com/playlist/4xwJblPWVeMmteYDqcPzXl?si=4f2f0e96f86443ad)
 <br/><br/>
 ﹏﹏﹏﹏﹏﹏﹏﹏
 <br/><br/>
-[![C++](https://img.shields.io/badge/C++-00599D?style=flat&logo=cplusplus&logoColor=white)](http://www.cplusplus.com/)
 [![Java](https://img.shields.io/badge/Java-73A1FB?style=flat&logo=java&logoColor=white)](https://docs.oracle.com/javase/8/docs/api/overview-summary.html)
+[![C++](https://img.shields.io/badge/C++-00599D?style=flat&logo=cplusplus&logoColor=white)](http://www.cplusplus.com/)
 [![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=white)](https://docs.python.org/ko/3/)
 <br/>
 [![Selenium](https://img.shields.io/badge/Selenium-00B400?style=flat&logo=Selenium&logoColor=white)](https://www.selenium.dev/documentation/en/)
