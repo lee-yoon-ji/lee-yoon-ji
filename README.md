@@ -7,7 +7,9 @@
 <strong> 𝐋𝐄𝐄 𝐘𝐎𝐎𝐍 𝐉𝐈 </strong><br><br>
 👩🏻‍💻 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 <br>
 👩🏻‍🎓 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫 𝐨𝐟 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 <br>
+💻 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 , 𝐂𝐒𝐓𝐒 (𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐋𝐞𝐯𝐞𝐥)<br>
 🖤 𝐉𝐚𝐯𝐚 , 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 , 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦<br>
+✒️ 𝟐𝟎𝟐𝟏, 𝟐𝐇 𝐆𝐨𝐚𝐥 > 𝟏. 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 (𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦, 𝐀𝐩𝐩𝐢𝐮𝐦) 𝟐. 𝐈𝐒𝐓𝐐𝐁 𝐂𝐓𝐅𝐋<br>
 <br/><br/>
 
 [![Archive Badge](http://img.shields.io/badge/-Archive-black?style=flat-square&logo=github&link=Archive/)](https://github.com/lamlyg)
