@@ -14,7 +14,8 @@
 
 [![Archive Badge](http://img.shields.io/badge/-Archive-black?style=flat-square&logo=github&link=Archive/)](https://github.com/lamlyg)
 [![Notion Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&link=Notion/)](https://www.notion.so/colossal-diplodocus-eb8/a1410ab0552941cdb3d23fd56d741feb)
-[![PLAYLIST Badge](http://img.shields.io/badge/-PLAYLIST-black?style=flat-square&logo=spotify&link=Notion/)](https://open.spotify.com/playlist/4xwJblPWVeMmteYDqcPzXl?si=4f2f0e96f86443ad)
+[![PLAYLIST Badge](http://img.shields.io/badge/-PLAYLIST-black?style=flat-square&logo=spotify&link=PLAYLIST/)](https://open.spotify.com/playlist/4xwJblPWVeMmteYDqcPzXl?si=4f2f0e96f86443ad)
+[![BLOG Badge](http://img.shields.io/badge/-BLOG-black?style=flat-square&logo=naver&link=BLOG/)](https://blog.naver.com/lamlyg)
 <br/><br/>
 ﹏﹏﹏﹏﹏﹏﹏﹏
 <br/><br/>
