@@ -8,8 +8,6 @@
 👩🏻‍💻 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 <br>
 👩🏻‍🎓 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫 𝐨𝐟 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 <br>
 <br/><br/>
-
-<br/><br/>
 ﹏﹏﹏﹏﹏﹏﹏﹏
 <br/><br/>
 [![Java](https://img.shields.io/badge/Java-73A1FB?style=flat&logo=java&logoColor=white)](https://docs.oracle.com/javase/8/docs/api/overview-summary.html)
