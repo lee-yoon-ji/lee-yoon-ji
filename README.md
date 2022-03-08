@@ -7,8 +7,7 @@
 <strong> 𝐋𝐄𝐄 𝐘𝐎𝐎𝐍 𝐉𝐈 </strong><br><br>
 👩🏻‍💻 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 <br>
 👩🏻‍🎓 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫 𝐨𝐟 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 <br>
-<br/><br/>
-﹏﹏﹏﹏﹏﹏﹏﹏
+
 <br/><br/>
 [![Java](https://img.shields.io/badge/Java-73A1FB?style=flat&logo=java&logoColor=white)](https://docs.oracle.com/javase/8/docs/api/overview-summary.html)
 [![Eclipse](https://img.shields.io/badge/Eclipse-blue?style=flat&logo=Eclipse&logoColor=white)](https://www.eclipse.org/)
@@ -50,7 +49,14 @@
 [![Archive Badge](http://img.shields.io/badge/-Archive-black?style=flat-square&logo=github&link=Archive/)](https://github.com/lamlyg)
 [![Notion Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&link=Notion/)](https://www.notion.so/colossal-diplodocus-eb8/a1410ab0552941cdb3d23fd56d741feb)
 [![PLAYLIST Badge](http://img.shields.io/badge/-PLAYLIST-black?style=flat-square&logo=spotify&link=PLAYLIST/)](https://open.spotify.com/playlist/4xwJblPWVeMmteYDqcPzXl?si=4f2f0e96f86443ad)
+<br/><br/>
+  
+[![Archive Badge](http://img.shields.io/badge/-Archive-black?style=flat-square&logo=github&link=Archive/)](https://github.com/lamlyg)
+[![Notion Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&link=Notion/)](https://www.notion.so/colossal-diplodocus-eb8/a1410ab0552941cdb3d23fd56d741feb)
+[![PLAYLIST Badge](http://img.shields.io/badge/-PLAYLIST-black?style=flat-square&logo=spotify&link=PLAYLIST/)](https://open.spotify.com/playlist/4xwJblPWVeMmteYDqcPzXl?si=4f2f0e96f86443ad)
+[![BLOG Badge](http://img.shields.io/badge/-BLOG-black?style=flat-square&logo=naver&link=BLOG/)](https://blog.naver.com/lamlyg)
 
+  ﹏﹏﹏﹏﹏﹏﹏﹏
 lee-yoon-ji/lee-yoon-ji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @lee-yoon-ji
