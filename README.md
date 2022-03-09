@@ -15,11 +15,9 @@
 [![iOS](https://img.shields.io/badge/iOS-red?style=flat&logo=ios&logoColor=white)](https://developer.apple.com/kr/)
 <br/>
 [![Selenium](https://img.shields.io/badge/Selenium-00B400?style=flat&logo=Selenium&logoColor=white)](https://www.selenium.dev/documentation/en/)
-[![TestNG](https://img.shields.io/badge/TestNG-yellow?style=flat&logo=testng&logoColor=white)](https://testng.org/doc/)
-[![Maven](https://img.shields.io/badge/Maven-F361A6?style=flat&logo=apache&logoColor=white)](https://testng.org/doc/)
 [![Appium](https://img.shields.io/badge/Appium-00A8D4?style=flat&logo=appium&logoColor=white)](https://github.com/appium/appium)
-<br/>
 [![Jira](https://img.shields.io/badge/-Jira-navy?style=flat&logo=jira&logoColor=white)](https://github.com/lee-yoon-ji)
+<br/>
 [![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)](https://github.com/lee-yoon-ji)
 [![github](https://img.shields.io/badge/-github-black?style=flat&logo=github&logoColor=white)](https://github.com/lee-yoon-ji)
 [![gitlab](https://img.shields.io/badge/-gitlab-purple?style=flat&logo=gitlab&logoColor=white)](https://github.com/lee-yoon-ji)
